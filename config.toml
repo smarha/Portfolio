@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/smarha/portfolio/"
 languageCode = "en-us"
 title = ""
 theme = "personal-web"
