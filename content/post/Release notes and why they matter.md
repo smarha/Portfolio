@@ -1,5 +1,5 @@
 ---
-title: "Release notes and why they matter?"
+title: "Release notes and why they matter"
 date: 2023-05-01T19:06:29+02:00
 ---
 A release note is a technical document that accompanies the launch of a new software product or update. It briefly describes the new product or outlines the changes included in the update.
