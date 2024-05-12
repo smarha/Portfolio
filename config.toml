@@ -17,7 +17,8 @@ canonifyURLs = true
 
 [params.main]
   latestPublishHeader = "Articles"
-
+  text = "text"
+  
 [taxonomies]
   design = "designs"
   tech = "techs"
@@ -62,17 +63,10 @@ canonifyURLs = true
 
 [menu]
 
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
-
 
 [[menu.main]]
   identifier = "blog"
-  name = "Portfolio"
+  name = "Blog"
   title = "Blog section"
   url = "/post/"
   weight = -100
